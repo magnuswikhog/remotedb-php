@@ -2,7 +2,7 @@
 
 This library lets you quickly and easily send data from your Android app to your server and store it in a database.
 
-> This is the PHP backend part of the RemoteDb project. The PHP backend part can be found at https://github.com/magnuswikhog/remotedb-android
+> This is the PHP backend part of the RemoteDb project. The Android library can be found at https://github.com/magnuswikhog/remotedb-android
 
 
 
