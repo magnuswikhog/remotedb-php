@@ -9,7 +9,7 @@ This library lets you quickly and easily send data from your Android app to your
 
 # Installation
 
-For now, the recommended way to include this library is to simply clone the repo or copy and paste the relevant files to your web server.
+For now, the recommended way to include this library is to simply clone the repo or copy and paste the [RemoteDb library directory](https://github.com/magnuswikhog/remotedb-php/tree/master/RemoteDb) to your web server.
 
 
 
